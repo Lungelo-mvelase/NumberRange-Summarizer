@@ -1,0 +1,21 @@
+# Maven target folder
+/target/
+
+# VS Code files
+.vscode/
+
+# Logs
+*.log
+
+# Maven Wrapper
+/.mvn/wrapper/maven-wrapper.jar
+
+# Temporary files
+*.tmp
+*.bak
+
+# Compiled classes
+*.class
+
+# Package files
+*.jar
